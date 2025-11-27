@@ -110,6 +110,14 @@
           "description": "A feedback-driven approach to building and guiding customer-facing AI agents",
           "icon": "/assets/favicon_1764238846834.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764238882954_a8vcpm47v",
+          "title": "Microverse",
+          "href": "https://github.com/KsanaDock/Microverse",
+          "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication. - KsanaDock/Microverse",
+          "icon": "/assets/favicon_1764238873081.png",
+          "enabled": true
         }
       ],
       "subCategories": []
