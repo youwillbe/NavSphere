@@ -770,14 +770,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1754791068961",
-              "title": "NeuraPress Pro Markdown Editor",
-              "href": "https://mp.leti.ltd/",
-              "description": "NeuraPress 是一个现代化的 Markdown 编辑器，专注于提供优质的内容排版体验。 响应式设计，支持移动设备，让创作变得更加高效。\n\n",
-              "icon": "/assets/favicon_1754791082337.svg",
-              "enabled": true
-            },
-            {
               "id": "item-1756907352615",
               "enabled": true,
               "title": "MD2Card - Markdown 转知识卡片工具",
