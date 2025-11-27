@@ -638,14 +638,6 @@
               "description": "Reddit is where millions of people gather for conversations about the things they care about, in over 100,000 subreddit communities.",
               "icon": "/assets/favicon_1755168414977.png",
               "enabled": true
-            },
-            {
-              "id": "1_11_5",
-              "title": "Producthunt",
-              "href": "https://www.producthunt.com/",
-              "description": "发现新鲜有趣的产品",
-              "icon": "/assets/images/logos/producthunt.png",
-              "enabled": true
             }
           ]
         },
