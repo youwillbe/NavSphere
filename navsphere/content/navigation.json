@@ -14,6 +14,14 @@
           "description": "访问 tanstack.com",
           "icon": "/assets/favicon_1764238642599.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764239319847_o00rwazht",
+          "title": "CodebaseShow Realworld",
+          "href": "https://codebase.show/projects/realworld",
+          "description": "A collection of codebase examples using various languages, libraries, and frameworks to help you create your next project.",
+          "icon": "/assets/favicon_1764239294786.png",
+          "enabled": true
         }
       ],
       "subCategories": []
