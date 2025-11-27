@@ -24,7 +24,16 @@
       "icon": "Home",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764238993360_pvof3rbpv",
+          "title": "律动DIFY",
+          "href": "https://deepflowdify.aigcempower.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=deepflowdify.aigcempower.com",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
