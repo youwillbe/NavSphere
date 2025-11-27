@@ -154,7 +154,16 @@
       "icon": "Database",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764239202823_nx7i2qd82",
+          "title": "TrailBase",
+          "href": "https://trailbase.io/",
+          "description": "A blazingly fast, open-source, single-executable, featureful Firebase alternative.",
+          "icon": "/assets/favicon_1764239196342.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
