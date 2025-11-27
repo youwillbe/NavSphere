@@ -121,6 +121,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1764238923730",
+      "title": "爱创作",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
