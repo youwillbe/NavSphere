@@ -44,6 +44,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1764238435828",
+      "title": "常用库",
+      "icon": "Zap",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
