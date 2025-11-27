@@ -147,6 +147,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1764239174306",
+      "title": "数据库",
+      "icon": "Database",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
