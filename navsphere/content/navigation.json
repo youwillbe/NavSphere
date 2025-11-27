@@ -6,7 +6,16 @@
       "icon": "Star",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764238648201_nlxf7xrjg",
+          "title": "Tanstack",
+          "href": "https://tanstack.com/",
+          "description": "访问 tanstack.com",
+          "icon": "/assets/favicon_1764238642599.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
