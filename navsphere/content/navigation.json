@@ -102,7 +102,16 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764238853782_xtdhdeupo",
+          "title": "Parlant",
+          "href": "https://www.parlant.io/",
+          "description": "A feedback-driven approach to building and guiding customer-facing AI agents",
+          "icon": "/assets/favicon_1764238846834.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
