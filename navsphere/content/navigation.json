@@ -727,16 +727,7 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
