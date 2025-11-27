@@ -15,7 +15,16 @@
       "icon": "Link",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764229658137_abv2k6sxc",
+          "title": "Tw93",
+          "href": "https://tw93.fun/",
+          "description": "一个喜欢开源和折腾的工程师",
+          "icon": "/assets/favicon_1764229650898.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
