@@ -32,6 +32,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=deepflowdify.aigcempower.com",
           "enabled": true
+        },
+        {
+          "id": "site_1764239102948_j3odmu72s",
+          "title": "商拍DIFY",
+          "href": "https://difytest.aigcempower.com",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=difytest.aigcempower.com",
+          "enabled": true
         }
       ],
       "subCategories": []
