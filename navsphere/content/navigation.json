@@ -51,7 +51,16 @@
       "icon": "Zap",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764238450868_k7b3qu1te",
+          "title": "GitHub - nanostores/nanostores: A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores",
+          "href": "https://github.com/nanostores/nanostores",
+          "description": "A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores - nanostores/nanostores",
+          "icon": "/assets/favicon_1764238445750.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
