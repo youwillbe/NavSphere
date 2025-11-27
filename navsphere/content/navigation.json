@@ -28,24 +28,6 @@
       "subCategories": []
     },
     {
-      "id": "1764229640167",
-      "title": "高质量博客",
-      "icon": "Link",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1764229658137_abv2k6sxc",
-          "title": "Tw93",
-          "href": "https://tw93.fun/",
-          "description": "一个喜欢开源和折腾的工程师",
-          "icon": "/assets/favicon_1764229650898.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1764238261644",
       "title": "组件库",
       "icon": "LayoutGrid",
@@ -126,6 +108,24 @@
           "href": "https://github.com/KsanaDock/Microverse",
           "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication. - KsanaDock/Microverse",
           "icon": "/assets/favicon_1764238873081.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1764229640167",
+      "title": "高质量博客",
+      "icon": "Link",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1764229658137_abv2k6sxc",
+          "title": "Tw93",
+          "href": "https://tw93.fun/",
+          "description": "一个喜欢开源和折腾的工程师",
+          "icon": "/assets/favicon_1764229650898.png",
           "enabled": true
         }
       ],
