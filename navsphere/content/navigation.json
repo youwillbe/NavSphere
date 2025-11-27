@@ -67,6 +67,14 @@
           "description": "🌳 Tiny &amp; elegant JavaScript HTTP client based on the Fetch API - sindresorhus/ky",
           "icon": "/assets/favicon_1764238519291.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764238592476_e2l0k666s",
+          "title": "ts-belt",
+          "href": "https://mobily.github.io/ts-belt/",
+          "description": "",
+          "icon": "/assets/favicon_1764238586605.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
