@@ -196,6 +196,14 @@
           "description": "The hypermedia framework.",
           "icon": "/assets/favicon_1764239685210.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764239713234_xn9xsqbkm",
+          "title": "Wasp",
+          "href": "https://wasp.sh/",
+          "description": "Develop full-stack web apps without boilerplate.",
+          "icon": "/assets/favicon_1764239708332.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
