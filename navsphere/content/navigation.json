@@ -162,6 +162,14 @@
           "description": "A blazingly fast, open-source, single-executable, featureful Firebase alternative.",
           "icon": "/assets/favicon_1764239196342.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1764239221943_ns2eldj6q",
+          "title": "Turso",
+          "href": "https://turso.tech/",
+          "description": "Turso is the lightweight database that scales to millions of agents. Deploy databases everywhere—on servers, in browsers, on devices—just like files. A full SQLite drop-in replacement, built for the agentic future.",
+          "icon": "/assets/favicon_1764239215661.png",
+          "enabled": true
         }
       ],
       "subCategories": []
