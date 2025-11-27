@@ -75,6 +75,14 @@
           "description": "",
           "icon": "/assets/favicon_1764238586605.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764238618639_im2ujia03",
+          "title": "ts-pattern",
+          "href": "https://github.com/gvergnaud/ts-pattern",
+          "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference. - gvergnaud/ts-pattern",
+          "icon": "/assets/favicon_1764238607476.png",
+          "enabled": true
         }
       ],
       "subCategories": []
