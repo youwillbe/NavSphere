@@ -222,7 +222,16 @@
       "icon": "Heart",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764297919717_o5l4o6ytl",
+          "title": "Lootlemon | The Borderlands Toolbox",
+          "href": "https://www.lootlemon.com/",
+          "description": "Lootlemon is an Item Database, Class Builder, DPS Calculator, and Community for Borderlands Players. Accurate, up-to-date information that&#x27;s easy to apply.",
+          "icon": "/assets/favicon_1764297914069.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
