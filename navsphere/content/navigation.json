@@ -132,6 +132,14 @@
           "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference. - gvergnaud/ts-pattern",
           "icon": "/assets/favicon_1764238607476.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764327272599_hlbpzh7tx",
+          "title": "circle-flags",
+          "href": "https://hatscripts.github.io/circle-flags/gallery",
+          "description": "A collection of 400+ minimal circular SVG country, state and language flags",
+          "icon": "/assets/favicon_1764327262320.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
