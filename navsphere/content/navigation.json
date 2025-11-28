@@ -66,6 +66,14 @@
           "description": "A set of beautifully designed components that you can customize, extend, and build on. Start here then make it your own. Open Source. Open Code.",
           "icon": "/assets/favicon_1764238271128.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764326996388_e7z2scrrn",
+          "title": "coss.com origin",
+          "href": "https://coss.com/origin",
+          "description": "An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.",
+          "icon": "/assets/favicon_1764326990162.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
