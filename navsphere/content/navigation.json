@@ -166,6 +166,14 @@
           "description": "Contribute to anthropics/anthropic-sdk-python development by creating an account on GitHub.",
           "icon": "/assets/favicon_1764327208373.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764327234740_yd4buqd1y",
+          "title": "openai-python",
+          "href": "https://github.com/openai/openai-python",
+          "description": "The official Python library for the OpenAI API. Contribute to openai/openai-python development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1764327227652.png",
+          "enabled": true
         }
       ],
       "subCategories": []
