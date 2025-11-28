@@ -178,6 +178,14 @@
           "description": "Turso is the lightweight database that scales to millions of agents. Deploy databases everywhere—on servers, in browsers, on devices—just like files. A full SQLite drop-in replacement, built for the agentic future.",
           "icon": "/assets/favicon_1764239215661.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764297805173_40t7ss1e5",
+          "title": "walrus",
+          "href": "https://github.com/nubskr/walrus",
+          "description": "🦭 High Performance distributed message streaming engine  - GitHub - nubskr/walrus: 🦭 High Performance distributed message streaming engine",
+          "icon": "/assets/favicon_1764297786945.png",
+          "enabled": true
         }
       ],
       "subCategories": []
