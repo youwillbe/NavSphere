@@ -158,6 +158,14 @@
           "description": "A god-simulation sandbox game built on Godot 4 as a multi-agent AI social simulation system. In this virtual world, AI characters possess independent thinking and memory, capable of autonomous social interactions, task completion, and developing complex social relationships through continuous communication. - KsanaDock/Microverse",
           "icon": "/assets/favicon_1764238873081.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764327215826_n34rzbxpv",
+          "title": "anthropic-sdk-python",
+          "href": "https://github.com/anthropics/anthropic-sdk-python",
+          "description": "Contribute to anthropics/anthropic-sdk-python development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1764327208373.png",
+          "enabled": true
         }
       ],
       "subCategories": []
