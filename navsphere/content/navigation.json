@@ -230,6 +230,14 @@
           "description": "Lootlemon is an Item Database, Class Builder, DPS Calculator, and Community for Borderlands Players. Accurate, up-to-date information that&#x27;s easy to apply.",
           "icon": "/assets/favicon_1764297914069.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764297979902_xqwxkj68j",
+          "title": "Maxroll.gg",
+          "href": "https://maxroll.gg/",
+          "description": "Maxroll - News, Resources, Character Planners &amp; Build Guides for Diablo 4, Diablo 3, Diablo 2, Lost Ark, Path of Exile &amp; Torchlight Infinite.",
+          "icon": "/assets/favicon_1764297966439.png",
+          "enabled": true
         }
       ],
       "subCategories": []
