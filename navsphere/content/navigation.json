@@ -74,6 +74,14 @@
           "description": "An extensive collection of copy-and-paste components for quickly building app UIs. Free, open-source, and ready to drop into your projects.",
           "icon": "/assets/favicon_1764326990162.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764327024933_3l5is6tkz",
+          "title": "coss ui",
+          "href": "https://coss.com/ui/docs",
+          "description": "A new, modern UI component library built on top of Base UI. Built for developers and AI.",
+          "icon": "/assets/favicon_1764327018885.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
