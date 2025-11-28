@@ -82,6 +82,14 @@
           "description": "A new, modern UI component library built on top of Base UI. Built for developers and AI.",
           "icon": "/assets/favicon_1764327018885.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764327042060_sa6wntvzl",
+          "title": "Base UI",
+          "href": "https://base-ui.com/",
+          "description": "Unstyled UI components for building accessible web apps and design systems.",
+          "icon": "/assets/favicon_1764327038659.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
