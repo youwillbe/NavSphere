@@ -22,6 +22,14 @@
           "description": "A collection of codebase examples using various languages, libraries, and frameworks to help you create your next project.",
           "icon": "/assets/favicon_1764239294786.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764660138174_mphci3lqe",
+          "title": "Advent of Code",
+          "href": "https://adventofcode.com/",
+          "description": "",
+          "icon": "/assets/favicon_1764660129006.png",
+          "enabled": true
         }
       ],
       "subCategories": []
