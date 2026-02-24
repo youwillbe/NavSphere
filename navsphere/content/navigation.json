@@ -174,7 +174,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e5d5a6f6-3cd9-4a11-8eec-9464863a09da",
+          "title": "Hooks",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1764238820853",
