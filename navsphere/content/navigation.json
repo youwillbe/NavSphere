@@ -181,7 +181,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1771913794996_g03fu41j7",
+              "title": "useHooks – The React Hooks Library",
+              "href": "https://usehooks.com/",
+              "description": "A collection of modern, server-safe React hooks – from the ui.dev team",
+              "icon": "/assets/favicon_1771913781730.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
