@@ -98,6 +98,14 @@
           "description": "Unstyled UI components for building accessible web apps and design systems.",
           "icon": "/assets/favicon_1764327038659.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1771913061465_2upf6r9le",
+          "title": "Headless UI - Unstyled, fully accessible UI components",
+          "href": "https://headlessui.com/",
+          "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+          "icon": "/assets/favicon_1771913052914.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
