@@ -164,6 +164,14 @@
           "description": "A collection of 400+ minimal circular SVG country, state and language flags",
           "icon": "/assets/favicon_1764327262320.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1771913656699_fnozoh1i3",
+          "title": "partial.lenses",
+          "href": "https://github.com/calmm-js/partial.lenses",
+          "description": "partial.lenses",
+          "icon": "/assets/favicon_1771913640415.png",
+          "enabled": true
         }
       ],
       "subCategories": []
