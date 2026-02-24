@@ -106,6 +106,14 @@
           "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
           "icon": "/assets/favicon_1771913052914.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1771913309100_67lqy8szi",
+          "title": "Tailwind CSS Component Library ⸺ daisyUI",
+          "href": "https://daisyui.com/",
+          "description": "Tailwind CSS Components Library for 2026 - Tailwind CSS components examples, Tailwind themes and Tailwind blocks for fast UI development",
+          "icon": "/assets/favicon_1771913304105.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -155,14 +163,6 @@
           "href": "https://hatscripts.github.io/circle-flags/gallery",
           "description": "A collection of 400+ minimal circular SVG country, state and language flags",
           "icon": "/assets/favicon_1764327262320.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1771913126028_soiy0cw6z",
-          "title": "partial.lenses",
-          "href": "https://github.com/calmm-js/partial.lenses",
-          "description": "partial.lenses",
-          "icon": "/assets/favicon_1771913111240.png",
           "enabled": true
         }
       ],
