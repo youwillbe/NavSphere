@@ -30,6 +30,14 @@
           "description": "",
           "icon": "/assets/favicon_1764660129006.png",
           "enabled": true
+        },
+        {
+          "id": "site_1773628099969_a1imr92dz",
+          "title": "爱创作各类地址",
+          "href": "https://tana.pub/ItBScJPL14vu/54ix5yib5l2c5zce57g75zyw5z2a",
+          "description": "爱创作各类地址",
+          "icon": "/assets/favicon_1773628088701.png",
+          "enabled": true
         }
       ],
       "subCategories": []
