@@ -64,6 +64,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=difytest.aigcempower.com",
           "enabled": true
+        },
+        {
+          "id": "site_1775126397607_qtl6d2vib",
+          "title": "Deepblue",
+          "href": "https://deepblue.aigcempower.com/",
+          "description": "访问 deepblue.aigcempower.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=deepblue.aigcempower.com",
+          "enabled": true
         }
       ],
       "subCategories": []
